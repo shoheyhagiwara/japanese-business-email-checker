@@ -1,24 +1,29 @@
-# proper_business_japanese
+# ビジネスメール校正アプリ
 
-## Project setup
-```
+日本語のビジネスメールによくある間違いをチェックするアプリ
+
+# demo
+https://shoheyhagiwara.github.io/japanese-business-email-checker/
+## Getting Started
+
+```shell
+git clone git@github.com:shoheyhagiwara/japanese-business-email-checker.git
+cd japanese-business-email-checker
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+## Deployment
+
+deploy to GitHub Page
+```sh
+./deploy.sh
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Contributing
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For any issue you find, please feel free to report it [here](https://github.com/shoheyhagiwara/japanese-business-email-checker/issues).
+Pull requests are welcome too.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
